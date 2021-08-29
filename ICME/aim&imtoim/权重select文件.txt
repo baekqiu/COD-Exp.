@@ -1,0 +1,3 @@
+CAMO:SINet_10.pth
+CHAMELEON:SINet_20.pth
+COD10K:SINet_15.pth
